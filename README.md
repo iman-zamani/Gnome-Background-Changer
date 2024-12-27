@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Gnome-Background-Changer
-=======
+
 # Gnome-Background-Changer
 
 A simple Rust application that automatically rotates your GNOME desktop wallpaper every minute. It scans a directory for image files (`.jpg`, `.jpeg`, `.png`) and sets them as your desktop background in sequence.
@@ -47,6 +46,3 @@ A simple Rust application that automatically rotates your GNOME desktop wallpape
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve this project.
-
-
->>>>>>> 0c95432 (Update README.md)
