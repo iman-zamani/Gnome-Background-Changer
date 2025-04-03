@@ -42,5 +42,3 @@ A simple Rust application that automatically rotates your GNOME desktop wallpape
 - Ensure the `gsettings` command-line tool is available on your system.
 - The program runs in an infinite loop; use `Ctrl+C` to stop it.
 
-## Contributing
-Feel free to open issues or submit pull requests to improve this project.
